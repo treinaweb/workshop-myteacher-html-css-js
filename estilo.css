@@ -1,0 +1,14 @@
+h2 {
+    font-size: 15px;
+    color: yellow;
+}
+
+.cor-azul {
+    color: blue;
+}
+
+#titulo {
+    font-weight: 300;
+    color: gray;
+    font-size: 100px;
+}
